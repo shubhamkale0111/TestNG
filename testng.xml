@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test thread-count="2" name="Test">
+	  
+	  <!-- <parameter name="browser" value="Chrome"></parameter> -->
+	  
+	 <!--  <groups>
+		  <define name="SPRINTTEST">
+			  <include name="Sanity"/>
+				<include name="Regression"></include>
+			 
+		  </define>
+		  
+		  <run>
+			  <include name="SPRINTTEST"></include>
+		  </run>
+	  </groups> -->
+    <classes>
+     <!-- <class name="AxisQA.TestNG.NewTest"/>
+      <class name="AxisQA.TestNG.InvokeChrome"/>
+      <class name="AxisQA.TestNG.InvokeFirefox"/>
+      <class name="AxisQA.TestNG.Grouping"/>    
+        
+     	<class name="AxisQA.TestNG.ParallelTesting"/>-->
+    
+     	<!-- <class name="AxisQA.TestNG.ParameterizedTest"/> -->
+     
+     <class name="AxisQA.TestNG.InvokeChrome"/>
+         <class name="AxisQA.TestNG.InvokeEdge"/>
+           <class name="AxisQA.TestNG.ListenerTestClass"/>
+            <class name="AxisQA.TestNG.InvokeFirefox"/>
+            
+            
+            
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

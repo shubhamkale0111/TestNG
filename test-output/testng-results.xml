@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-27T11:42:11 IST" name="Default suite" finished-at="2024-02-27T11:42:12 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2024-02-27T11:42:11 IST" name="Default test" finished-at="2024-02-27T11:42:12 IST" duration-ms="86">
+      <class name="AxisQA.TestNG.AnnotationsEg">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="beforeClass" finished-at="2024-02-27T11:42:12 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="beforeMethod" finished-at="2024-02-27T11:42:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testcase1()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="testcase1" finished-at="2024-02-27T11:42:12 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="afterMethod" finished-at="2024-02-27T11:42:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testcase2()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="testcase2" finished-at="2024-02-27T11:42:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="beforeMethod" finished-at="2024-02-27T11:42:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="afterMethod" finished-at="2024-02-27T11:42:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testcase3()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="testcase3" finished-at="2024-02-27T11:42:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="beforeMethod" finished-at="2024-02-27T11:42:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="afterMethod" finished-at="2024-02-27T11:42:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="beforeMethod" finished-at="2024-02-27T11:42:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testcase4()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="testcase4" finished-at="2024-02-27T11:42:12 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="afterMethod" finished-at="2024-02-27T11:42:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:AxisQA.TestNG.AnnotationsEg@2e3967ea]" started-at="2024-02-27T11:42:12 IST" name="afterClass" finished-at="2024-02-27T11:42:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AxisQA.TestNG.AnnotationsEg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
