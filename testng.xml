@@ -5,7 +5,7 @@
 	  
 	  <!-- <parameter name="browser" value="Chrome"></parameter> -->
 	  
-	  <groups>
+	 <!--  <groups>
 		  <define name="SPRINTTEST">
 			  <include name="Sanity"/>
 				<include name="Regression"></include>
@@ -15,12 +15,12 @@
 		  <run>
 			  <include name="SPRINTTEST"></include>
 		  </run>
-	  </groups>
+	  </groups> -->
     <classes>
       <class name="AxisQA.TestNG.NewTest"/>
-      <class name="AxisQA.TestNG.InvokeChrome"/>
-      <class name="AxisQA.TestNG.InvokeFirefox"/>
-      <class name="AxisQA.TestNG.Grouping"/>    
+      <!--<class name="AxisQA.TestNG.InvokeChrome"/>
+       <class name="AxisQA.TestNG.InvokeFirefox"/>
+      <class name="AxisQA.TestNG.Grouping"/>   --> 
         
      	<!-- <class name="AxisQA.TestNG.ParallelTesting"/-->
     

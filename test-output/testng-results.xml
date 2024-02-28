@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-28T10:49:23Z" name="Default suite" finished-at="2024-02-28T10:49:23Z" duration-ms="87">
+  <suite started-at="2024-02-28T13:02:25Z" name="Suite" finished-at="2024-02-28T13:02:25Z" duration-ms="31">
     <groups>
     </groups>
-    <test started-at="2024-02-28T10:49:23Z" name="Default test" finished-at="2024-02-28T10:49:23Z" duration-ms="87">
+    <test started-at="2024-02-28T13:02:25Z" name="Test" finished-at="2024-02-28T13:02:25Z" duration-ms="31">
       <class name="AxisQA.TestNG.NewTest">
-        <test-method signature="TestCase()[pri:0, instance:AxisQA.TestNG.NewTest@73d983ea]" started-at="2024-02-28T16:19:23Z" name="TestCase" finished-at="2024-02-28T16:19:23Z" duration-ms="31" status="PASS">
+        <test-method signature="TestCase()[pri:0, instance:AxisQA.TestNG.NewTest@57250572]" started-at="2024-02-28T18:32:25Z" name="TestCase" finished-at="2024-02-28T18:32:25Z" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase -->
       </class> <!-- AxisQA.TestNG.NewTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
