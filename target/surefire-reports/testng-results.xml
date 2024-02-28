@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="7" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T15:16:27 IST" name="Suite" finished-at="2024-02-28T15:16:27 IST" duration-ms="79">
+    <groups>
+      <group name="Sanity">
+        <method signature="Grouping.Products()[pri:0, instance:AxisQA.TestNG.Grouping@306f16f3]" name="Products" class="AxisQA.TestNG.Grouping"/>
+        <method signature="Grouping.login()[pri:0, instance:AxisQA.TestNG.Grouping@306f16f3]" name="login" class="AxisQA.TestNG.Grouping"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="Grouping.AddToCart()[pri:0, instance:AxisQA.TestNG.Grouping@306f16f3]" name="AddToCart" class="AxisQA.TestNG.Grouping"/>
+        <method signature="Grouping.Payment()[pri:0, instance:AxisQA.TestNG.Grouping@306f16f3]" name="Payment" class="AxisQA.TestNG.Grouping"/>
+        <method signature="Grouping.login()[pri:0, instance:AxisQA.TestNG.Grouping@306f16f3]" name="login" class="AxisQA.TestNG.Grouping"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-02-28T15:16:27 IST" name="Test" finished-at="2024-02-28T15:16:27 IST" duration-ms="79">
+      <class name="AxisQA.TestNG.Grouping">
+        <test-method signature="AddToCart()[pri:0, instance:AxisQA.TestNG.Grouping@306f16f3]" started-at="2024-02-28T15:16:27 IST" name="AddToCart" finished-at="2024-02-28T15:16:27 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method signature="Payment()[pri:0, instance:AxisQA.TestNG.Grouping@306f16f3]" started-at="2024-02-28T15:16:27 IST" name="Payment" finished-at="2024-02-28T15:16:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payment -->
+        <test-method signature="Products()[pri:0, instance:AxisQA.TestNG.Grouping@306f16f3]" started-at="2024-02-28T15:16:27 IST" name="Products" finished-at="2024-02-28T15:16:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Products -->
+        <test-method signature="login()[pri:0, instance:AxisQA.TestNG.Grouping@306f16f3]" started-at="2024-02-28T15:16:27 IST" name="login" finished-at="2024-02-28T15:16:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- AxisQA.TestNG.Grouping -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
